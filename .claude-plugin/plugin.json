@@ -1,0 +1,14 @@
+{
+  "name": "wishfinity",
+  "version": "1.1.0",
+  "description": "Save any product to a universal wishlist. Converts any product URL into a one-click wishlist save link. Works with any retailer, any AI platform, zero setup.",
+  "author": {
+    "name": "Wishfinity",
+    "email": "lee@eggtooth.com",
+    "url": "https://wishfinity.com"
+  },
+  "homepage": "https://info.wishfinity.com/button",
+  "repository": "https://github.com/wishfinity/add-wish-plugin",
+  "license": "MIT",
+  "keywords": ["shopping", "wishlist", "ecommerce", "gifts", "save-for-later", "add-to-wishlist", "add-to-cart", "product-discovery"]
+}
