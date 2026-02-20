@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wishfinity": {
+      "command": "npx",
+      "args": ["wishfinity-mcp-plusw"]
+    }
+  }
+}
